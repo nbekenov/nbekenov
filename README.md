@@ -15,9 +15,10 @@
 - 📬 Email: n.bekenov01@gmail.com
 - 👤 LinkedIn: https://www.linkedin.com/in/nursultan-bekenov/
 
+<!---
 ### GitHub Stats 
 ![Sumit Mann's Github stats](https://github-readme-stats.vercel.app/api?username=NursultanBeken&show_icons=true&count_private=true&layout=compact&bg_color=45,23a6d5,23d5ab&title_color=fff&text_color=fff&icon_color=fff)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NursultanBeken&layout=compact&theme=mediumcontrast&langs_count=10)
-
+-->
 
 
