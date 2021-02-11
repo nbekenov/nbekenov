@@ -7,7 +7,7 @@
 - 🌱 I’m a passionate learner and enjoy solving problems
 
 ### What I'm Up To
-- 🔭 I’m currently interested in SRE & DevOps practices and open to new exciting challenges
+- 🔭 I’m currently interested in DevOps, SRE and Data Engineering and open to new exciting challenges
 - ⚡ My specialities: AWS, GCP, CI/CD, Python, CloudFormation, Docker, K8S,Ansible, Terraform, Linux, SQL, git
 - 😄 Fun fact: I'm HUGE HUGE Beatles fan and recently started to write [articles in medium](https://medium.com/the-beatles)
 
