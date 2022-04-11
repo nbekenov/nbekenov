@@ -2,8 +2,8 @@
 
 
 ### About Me 
-- 👨 I’m a software engineer with significant experience with cloud computing platforms (AWS & GCP) and DevOps practices
-- 💻 I am currently working as DevOps Automation Engineer at [Stelligent](https://stelligent.com/)
+- 👨 I’m a software engineer with significant experience in AWS cloud and DevOps practices
+- 💻 I am currently working as DevOps Automation Engineer at [Amazon Web Services](https://github.com/aws)
 - 🌱 I’m a passionate learner and enjoy solving problems
 
 ### What I'm Up To
