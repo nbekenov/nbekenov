@@ -13,7 +13,7 @@
 
 ### How to Reach Me
 - 📬 Email: n.bekenov01@gmail.com
-- 👤 LinkedIn: https://www.linkedin.com/in/nursultan-bekenov/
+- 👤 LinkedIn: https://www.linkedin.com/in/nathanbekenov/
 
 <!---
 ### GitHub Stats 
