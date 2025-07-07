@@ -3,11 +3,11 @@
 
 ### About Me 
 - 👨 I’m a software engineer with significant experience in AWS cloud and DevOps practices
-- 💻 I am currently working as DevOps Automation Engineer at [Amazon Web Services](https://github.com/aws)
+- 💻 I am currently working as Lead DevOps Automation Engineer at [Lexipol](https://github.com/praetoriandigital)
 - 🌱 I’m a passionate learner and enjoy solving problems
 
 ### What I'm Up To
-- 🔭 I’m currently interested in DevOps, SRE and Data Engineering and open to new exciting challenges
+- 🔭 I’m currently interested in DevOps, SRE and MLOps and open to new exciting challenges
 - ⚡ My specialities: AWS, GCP, CI/CD, Python, CloudFormation, Docker, K8S,Ansible, Terraform, Linux, SQL, git
 - 😄 Fun fact: I'm HUGE HUGE Beatles fan and recently started to write [articles in medium](https://medium.com/the-beatles)
 
